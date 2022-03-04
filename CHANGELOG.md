@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/MariamAv/demo-cd/compare/v1.4.0...v2.0.0) (2022-03-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* change
+
+### Features
+
+* change ([3de469e](https://github.com/MariamAv/demo-cd/commit/3de469e3fa2d8461e98db20bcf85568fc84a716f))
+
 ## [1.4.0](https://github.com/MariamAv/demo-cd/compare/v1.3.0...v1.4.0) (2022-03-04)
 
 
