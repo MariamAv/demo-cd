@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/MariamAv/demo-cd/compare/v2.0.0...v2.1.0) (2022-03-04)
+
+
+### Features
+
+* added delivery job ([cab090e](https://github.com/MariamAv/demo-cd/commit/cab090ec4bffecc6b534aea114cc12950842137a))
+
 ## [2.0.0](https://github.com/MariamAv/demo-cd/compare/v1.4.0...v2.0.0) (2022-03-04)
 
 
