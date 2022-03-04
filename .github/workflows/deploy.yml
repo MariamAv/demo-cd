@@ -14,12 +14,12 @@ jobs:
     - uses: actions/setup-node@v2 # installer node
       with: 
         node-version: "14"
-    - run: 
+    - run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
     - run: npx standard-version 
-    - uses: ad-m/github-push-action@master
+    - uses: ad-m/github-push-action@master # push
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN}}
+        github-token: ${{secrets.GITHUB_TOKEN}}
         branch: main
     
