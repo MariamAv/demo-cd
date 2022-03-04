@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: "affichage d'un message d'exemple"
-      run: echo "Salutations tetes de nazes"
+      run: echo "Salutations tetes de nazes !"
     - name: "pull du git"
       uses: actions/checkout@v2 
     - name: "installation du NodeJS version 14"
