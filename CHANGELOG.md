@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 1.0.1 (2022-03-04)
 
+
+### Bug Fixes
+
+* not fixed ([e33a451](https://github.com/MariamAv/demo-cd/commit/e33a4517214ef175add24e175a80f18fd4a8e23b))
+
+### 1.0.1 (2022-03-04)
+
 ### 1.0.1 (2022-03-04)
 
 ### 1.0.1 (2022-03-04)
