@@ -11,7 +11,7 @@ Ce projet a pour but de mettre en place un système de CD pour le déploiemnet d
 - git checkout dev
 - Faire les modifs
 - git add .
-- git commit -m "fix/chores/docs: ..."
+- git commit -m "fix/feat/chores/docs: ..."
 - git push  <br> <br>
 - git checkout main
 - git merge dev
