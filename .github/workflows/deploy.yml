@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: "affichage d'un message d'exemple"
-      run: echo "Salutations !!"
+      run: echo "Salutations !"
     - name: "pull du git"
       uses: actions/checkout@v2 
       with: 
