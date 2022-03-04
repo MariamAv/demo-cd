@@ -32,5 +32,12 @@ jobs:
         branch: main
     - run: git push --tags
 
+  delivery:
+    name: "build et push de l'image sur ACR"
+    runs-on: ubuntu-latest
+    needs: conventional-commit
+    steps:
+    - run: echo "Hello"
+
 
     
